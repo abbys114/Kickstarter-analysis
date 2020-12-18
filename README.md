@@ -1,5 +1,27 @@
-An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends 
-The data shows that 525 of the 912 theatre campaigns in the US were sucessful.  The average successful theatre campaign in the US had goals roughly half of the failed goals.  The average succeful campaigns average goal was $5,049 and the average failed goal was $10,554.
-![Parent_Category_graph] (path/to/Parent_Cathegory_graph.png)
-OVerall the data shows that Louise has a good chance of running a successful theatre campaign, but she may want to reconsider her goal amount to increase her chances of being sucessful.
+# Kickstarting with Excel
+
+## Overview of Project 
+
+### Purpose
+This projects goal was to help our client, Louise, analyze how other campaigns compared to her own campaign for her play _Fever_.  Specifically we compared other campaigns launch dates and their funding goals.  Using this data we were able to determind the best time to launch a campagin and  optimal funding goal to make the most sucessful campgain.
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+Through the use of pivot tables and line charts, we were able to sort out the data, to better understand how the launch date effected the success of the campaign.
+
+[](Outcomes_vs_Goals.png)
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
