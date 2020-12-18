@@ -10,7 +10,7 @@ This projects goal was to help our client, Louise, analyze how other campaigns c
 ### Analysis of Outcomes Based on Launch Date
 Through the use of pivot tables and line charts, we were able to sort out the data, to better understand how the launch date effected the success of the campaign.
 
-![](Outcomes_vs_Goals.png)
+![image](Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
 
