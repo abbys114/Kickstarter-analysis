@@ -23,7 +23,7 @@ Learning Github was challenging  for me as it was my first time using it.  I wat
 ## Results
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
-Based on the data collected on campaign outcomes based on launch date, May is the best month to start a campaign.  This month had the highest number of successful campaigns as well as having the greatest percent of successful campaigns compared to failedand canceled campaigns durring this month.  Another conclusion that can be made from this data is that December is the worst month to launch a campaign.  This month had the lowest amount of successful campains as well as lowest percent. 
+Based on the data collected on campaign outcomes based on launch date, May is the best month to start a campaign.  This month had the highest number of successful campaigns as well as having the greatest percent of successful campaigns compared to failed and canceled campaigns durring this month.  Another conclusion that can be made from this data is that December is the worst month to launch a campaign.  This month had the lowest amount of successful campaigns as well as lowest percent. 
 
 ### What can you conclude about the Outcomes based on Goals?
 We can conclude that outcomes based on goals show that campaigns with goals less then $10,000 were more successful then campaigns with goals greater then $10,000.  This being said, campaigns with goals between $35,000 and $40,000, had a higher number of successful campaigns compared to failed and canceld ones also. 
