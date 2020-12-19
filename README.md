@@ -10,7 +10,7 @@ This projects goal was to help our client, Louise, analyze how other campaigns c
 ### Analysis of Outcomes Based on Launch Date
 Through the use of pivot tables and line charts, we were able to sort out the data, to better understand how the launch date effected the success of the campaign.  First we created a pivot table and filtered it to only include theatre campaigns.  Then rows were made containing the 12 months and colums showing the possible campaign outcomes.  The possible outcomes were successful, failed, and canceled.  Then we plotted the data in a line graph.  Shown in the graph below, the data shows May has the highest amount of successful campaigns based on the launch date.
 
-![Alt Text](file:///Users/abbyschneider/Desktop/Data%20Analysis%20Class/resources/Theatre_Outcomes_vs_Launch.png)
+![Alt Text](https://github.com/abbys114/Kickstarter-analysis/blob/main/Theatre_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 The Campaign goal amounts can help predict how successful a campaign will be.  We created a chart and divided the goal amounts into $5,000 increments, which then showed the percent successful, failed, and canceled for the increment.  Then the data was created into a line graph which showed that campaigns that had a goal under $10,000 had a higher success percentage then failed ones, along with goals ranging $30,000 and $35,000.  This can be seen in the chart below.
