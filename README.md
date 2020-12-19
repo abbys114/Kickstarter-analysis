@@ -3,7 +3,7 @@
 ## Overview of Project 
 
 ### Purpose
-This projects goal was to help our client, Louise, analyze how other campaigns compared to her own campaign for her play _Fever_.  Specifically we compared other campaigns launch dates and their funding goals.  Using this data we were able to determind the best time to launch a campagin and  optimal funding goal to make the most sucessful campgain.
+This projects goal was to help our client, Louise, analyze how other campaigns compared to her own campaign for her play _Fever_.  Specifically, we compared other campaigns launch dates and their funding goals.  Using this data we were able to determind the best time to launch a campagin and  optimal funding goal to make the most sucessful campgain.
 
 ## Analysis and Challenges
 
