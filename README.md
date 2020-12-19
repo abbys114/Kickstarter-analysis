@@ -15,7 +15,7 @@ Through the use of pivot tables and line charts, we were able to sort out the da
 ### Analysis of Outcomes Based on Goals
 The Campaign goal amounts can help predict how successful a campaign will be.  We created a chart and divided the goal amounts into $5,000 increments, which then showed the percent successful, failed, and canceled for the increment.  Then the data was created into a line graph which showed that campaigns that had a goal under $10,000 had a higher success percentage then failed ones, along with goals ranging $30,000 and $35,000.  This can be seen in the chart below.
 
-![Alt Text](https://github.com/abbys114/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png
+![Alt Text](https://github.com/abbys114/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
