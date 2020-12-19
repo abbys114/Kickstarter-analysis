@@ -18,6 +18,7 @@ The Campaign goal amounts can help predict how successful a campaign will be.  W
 ![Alt Text](https://github.com/abbys114/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+Learning Github was challenging  for me as it was my first time using it.  I watched some youtube videos on how to use it, which helped.  I also struggled to put pictures on the README.md, but reached out for help on Slack and found my answer.  Overall I encountered some difficulties, but overcame them.
 
 ## Results
 
