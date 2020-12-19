@@ -8,7 +8,7 @@ This projects goal was to help our client, Louise, analyze how other campaigns c
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Through the use of pivot tables and line charts, we were able to sort out the data, to better understand how the launch date effected the success of the campaign.  First we created a pivot table and filtered it to only include theatre campaigns.  Then rows were made containing the 12 months and colums showing the possible campaign outcomes.  The possible outcomes were successful, failed, and canceled.  Then we plotted the data in a line graph.  Shown in the graph below, the data shows May has the highest amount of successful campaigns based on the launch date.
+Through the use of pivot tables and line charts, we were able to sort out the data to better understand how the launch date effected the success of the campaign.  First we created a pivot table and filtered it to only include theatre campaigns.  Then rows were made containing the 12 months and colums showing the possible campaign outcomes.  The possible outcomes were successful, failed, and canceled.  Then we plotted the data in a line graph.  Shown in the graph below, the data shows May has the highest amount of successful campaigns based on the launch date.
 
 ![Alt Text](https://github.com/abbys114/Kickstarter-analysis/blob/main/Theatre_Outcomes_vs_Launch.png)
 
